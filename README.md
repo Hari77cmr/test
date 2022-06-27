@@ -1,3 +1,3 @@
 # test
-test report for git demonstration
+test report for git command demonstration
 
